@@ -1,0 +1,3 @@
+# Overview of the Design Phase
+
+This document provides a high-level overview of the Design phase. The purpose of this phase is to translate the requirements gathered in the Discovery phase into a detailed technical and visual blueprint for the project. This includes creating the system architecture, designing the user interface and user experience (UI/UX), and defining the database schema. A solid design phase is critical for a smooth development process.
